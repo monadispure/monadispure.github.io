@@ -1,18 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 04 May 2023 06:15:46 GMT</lastBuildDate><item><title><![CDATA[블로그 운영에 도움이 되는 기술 도구들]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/my-new-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/my-new-post/</guid><pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;블로그 운영을 시작하려면, 먼저 글쓰기에 대한 열정과 적극적인 자세가 필요합니다. 하지만 이것만으로는 충분하지 않습니다. 블로그를 성공적으로 운영하기 위해서는 다양한 기술 도구들을 활용해야 합니다. 이번 글에서는 블로그 운영에 도움이 되는 기술 도구들을 소개하고, 어떻게 활용할 수 있는지에 대해 알아보겠습니다.&lt;/p&gt;
-&lt;h2&gt;1. 플랫폼&lt;/h2&gt;
-&lt;p&gt;블로그를 운영하기 위해서는 플랫폼을 선택해야 합니다. 여러 가지 블로그 플랫폼 중에서는 다음과 같은 것들이 있습니다.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 08 May 2023 07:35:51 GMT</lastBuildDate><item><title><![CDATA[제품 소개 홈페이지]]></title><description><![CDATA[환영합니다! 제품 소개 홈페이지에 오신 것을 환영합니다! 저희 제품은 아이폰 시리즈로 다음과 같은 특징을 가지고 있습니다. 주요 특징…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/my-new-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/my-new-post/</guid><pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;환영합니다!&lt;/h2&gt;
+&lt;p&gt;제품 소개 홈페이지에 오신 것을 환영합니다! 저희 제품은 아이폰 시리즈로 다음과 같은 특징을 가지고 있습니다.&lt;/p&gt;
+&lt;h2&gt;주요 특징&lt;/h2&gt;
+&lt;h3&gt;1. 편리함&lt;/h3&gt;
+&lt;img src=&quot;https://sitem.ssgcdn.com/97/77/49/item/1000508497797_i1_1100.jpg&quot; alt=&quot;편리함&quot; width=&quot;250&quot; height=&quot;250&quot;&gt;
+&lt;p&gt;아이폰은 사용자의 편의를 최우선으로 생각하여 개발되었습니다. 직관적인 인터페이스와 사용하기 쉬운 터치 기능을 제공하여 누구나 손쉽게 사용할 수 있습니다.&lt;/p&gt;
+&lt;h3&gt;2. 고품질&lt;/h3&gt;
+&lt;img src=&quot;https://img.danawa.com/prod_img/500000/239/814/img/17814239_2.jpg?shrink=500:500&amp;amp;_v=20220929125252&quot; alt=&quot;고품질&quot; width=&quot;250&quot; height=&quot;250&quot;&gt;
+&lt;p&gt;아이폰은 최상의 품질을 보장합니다. 우수한 재료와 정교한 제조 공정을 통해 내구성이 뛰어나며, 높은 성능과 우수한 화질을 제공합니다.&lt;/p&gt;
+&lt;h3&gt;3. 다양한 기능&lt;/h3&gt;
+&lt;img src=&quot;https://help.apple.com/assets/63BCA8F46048E91596771871/63BCA8F56048E9159677187F/ko_KR/a9e9b9c87b74c021efbff916b73a212b.png&quot; alt=&quot;다양한 기능&quot; width=&quot;250&quot; height=&quot;250&quot;&gt;
+&lt;p&gt;아이폰은 다양한 기능을 갖추고 있습니다. 탁월한 카메라 성능, 안정적인 보안 기능, AI 기반의 음성 비서 등을 통해 사용자들에게 다양한 기능과 편의성을 제공합니다.&lt;/p&gt;
+&lt;h2&gt;제품 소개&lt;/h2&gt;
+&lt;img src=&quot;https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2022%2F09%2Fapple-iphone-14-apple-watch-lineup-korea-release-info-official-date-ft.jpg?w=960&amp;amp;cbr=1&amp;amp;q=90&amp;amp;fit=max&quot; alt=&quot;아이폰 시리즈&quot; width=&quot;250&quot; height=&quot;250&quot;&gt;
+&lt;p&gt;아이폰은 애플이 개발한 스마트폰으로, 세계에서 가장 인기 있는 스마트폰 브랜드입니다. 아이폰은 우수한 성능, 아름다운 디자인, 탁월한 사용자 경험 등으로 전 세계 사용자들에게 사랑받고 있습니다. 아이폰 시리즈에는 다양한 모델과 크기, 색상 등이 있어 사용자의 다양한 Bedürfnisse에 맞춰 선택할 수 있습니다.&lt;/p&gt;
+&lt;h2&gt;주문 및 구매&lt;/h2&gt;
+&lt;p&gt;아이폰을 주문하고 구매하고자 하는 분들은 다음 링크를 통해 주문 절차를 진행할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.apple.com/kr/store?afid=p238%7CsEyqAkkbw-dc_mtid_18707vxu38484_pcrid_657236975013_pgrid_16348496721_pntwk_g_pchan__pexid__&amp;#x26;cid=aos-kr-kwgo-Brand--slid---product-&quot;&gt;주문하기&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;문의하기&lt;/h2&gt;
+&lt;p&gt;추가 문의나 제품에 대한 궁금한 사항이 있으신 분들은 아래 연락처로 문의해주세요.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;텀블러(Tumblr)&lt;/li&gt;
-&lt;li&gt;워드프레스(WordPress)&lt;/li&gt;
-&lt;li&gt;미디엄(Medium)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;이 중에서 자신에게 가장 적합한 플랫폼을 선택하고, 블로그를 개설해보세요.&lt;/p&gt;
-&lt;h2&gt;2. 검색 엔진 최적화(SEO)&lt;/h2&gt;
-&lt;p&gt;블로그 운영을 시작하면 검색 엔진 최적화(SEO)에 대한 고민이 필수적입니다. 검색 엔진에서 상위에 노출되기 위해서는 검색 엔진 최적화를 해야 하며, 구글 애드워즈(Google AdWords)와 같은 광고 툴을 이용해 블로그를 홍보하는 것도 좋은 방법입니다.&lt;/p&gt;
-&lt;h2&gt;3. 디자인&lt;/h2&gt;
-&lt;p&gt;블로그의 디자인은 매우 중요합니다. 플랫폼에 내장된 템플릿을 사용해도 되지만, 조금 더 개성있고 독창적인 블로그를 만들기 위해서는 웹 디자인 기술에 대한 이해와 경험이 필요합니다. 만약 기술적인 부분이 부족하다면, 디자인 템플릿을 구매하거나 무료로 제공되는 디자인 템플릿을 활용해보세요.&lt;/p&gt;
-&lt;h2&gt;4. 분석 도구&lt;/h2&gt;
-&lt;p&gt;블로그 운영의 중요한 부분 중 하나는 방문자 분석입니다. 블로그에 방문한 방문자들의 수와 활동 내역을 분석해야 블로그 성장을 위한 전략을 세울 수 있습니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[AI 기술을 활용한 스마트 홈 시스템]]></title><description><![CDATA[최근들어 AI 기술을 활용한 스마트 홈 시스템이 인기를 끌고 있습니다. 스마트 홈 시스템은 우리가 사용하는 가전제품, 조명, 보안 시스템 등을 AI 기술로 제어할 수 있는 첨단 기술입니다. 이번 글에서는 AI…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/my-new-post2/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/my-new-post2/</guid><pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;최근들어 AI 기술을 활용한 스마트 홈 시스템이 인기를 끌고 있습니다. 스마트 홈 시스템은 우리가 사용하는 가전제품, 조명, 보안 시스템 등을 AI 기술로 제어할 수 있는 첨단 기술입니다. 이번 글에서는 AI 기술을 활용한 스마트 홈 시스템에 대해 알아보고, 그 기술들이 어떻게 적용되는지 살펴보겠습니다.&lt;/p&gt;
+&lt;li&gt;이메일: &lt;a href=&quot;mailto:contact@example.com&quot;&gt;contact@example.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;전화번호: 123-456-7890&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[실습용 쿼리]]></title><description><![CDATA[아래 코드를 복사해서  파일의  부분에 붙여주세요.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/query/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/query/</guid><pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;아래 코드를 복사해서 &lt;code class=&quot;language-text&quot;&gt;src/pages/index.js&lt;/code&gt; 파일의 &lt;code class=&quot;language-text&quot;&gt;pageQuery&lt;/code&gt; 부분에 붙여주세요.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; pageQuery &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; graphql&lt;span class=&quot;token template-string&quot;&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;
+  {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+    allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
+      nodes {
+        html
+        excerpt
+        fields {
+          slug
+        }
+        frontmatter {
+          date(formatString: &quot;MMMM DD, YYYY&quot;)
+          title
+          description
+        }
+      }
+    }
+  }
+&lt;/span&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[AI 기술을 활용한 스마트 홈 시스템]]></title><description><![CDATA[최근들어 AI 기술을 활용한 스마트 홈 시스템이 인기를 끌고 있습니다. 스마트 홈 시스템은 우리가 사용하는 가전제품, 조명, 보안 시스템 등을 AI 기술로 제어할 수 있는 첨단 기술입니다. 이번 글에서는 AI…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/my-new-post2/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/my-new-post2/</guid><pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;최근들어 AI 기술을 활용한 스마트 홈 시스템이 인기를 끌고 있습니다. 스마트 홈 시스템은 우리가 사용하는 가전제품, 조명, 보안 시스템 등을 AI 기술로 제어할 수 있는 첨단 기술입니다. 이번 글에서는 AI 기술을 활용한 스마트 홈 시스템에 대해 알아보고, 그 기술들이 어떻게 적용되는지 살펴보겠습니다.&lt;/p&gt;
 &lt;h2&gt;1. 음성인식 기술&lt;/h2&gt;
 &lt;p&gt;스마트 홈 시스템에서 가장 중요한 것은 음성인식 기술입니다. 음성인식 기술을 활용하면 손을 사용하지 않고도 가전제품을 제어할 수 있습니다. 음성인식 기술은 일반적으로 인공지능 비서(AI Assistant)를 통해 제공됩니다. 대표적인 AI 비서로는 애플의 Siri, 아마존의 알렉사, 구글 어시스턴트 등이 있습니다.&lt;/p&gt;
 &lt;h2&gt;2. 스마트 가전제품&lt;/h2&gt;
